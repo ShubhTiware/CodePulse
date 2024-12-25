@@ -1,0 +1,18 @@
+# Visual Studio-related files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Temporary build files
+bin/
+obj/
+
+# Angular build output
+dist/
+node_modules/
+
+# Environment files
+*.env
+*.env.*
